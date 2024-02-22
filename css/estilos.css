@@ -2,12 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: beige;
     color: #333;
 }
 
 :root {
-    --main-color: #16b93a;
+    --main-color: #d4b996;
 }
 
 header, section, footer {
@@ -30,7 +30,7 @@ h2 {
 }
 
 section {
-    background-color: #fff;
+    background-color: #d2b48c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -41,11 +41,11 @@ footer {
     text-align: center;
     padding: 20px;
     background-color: var(--main-color);
-    color: #fff;
+    color: beige;
 }
 
 #idiomas {
-    background-color: #f4f4f4;
+    background-color: #b3a493;
     padding: 20px;
 }
 
@@ -60,7 +60,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #d2b48c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -75,7 +75,7 @@ footer {
 
 
 #informatica {
-    background-color: #f4f4f4;
+    background-color: #b3a493;
     padding: 20px;
 }
 
@@ -90,7 +90,7 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #d2b48c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
@@ -104,7 +104,7 @@ footer {
 }
 
 #experiencia {
-    background-color: #f4f4f4;
+    background-color: #b3a493;
     padding: 20px;
 }
 
@@ -119,11 +119,11 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #d2b48c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    width: 250px; /* Ajusta según necesidad */
+    width: 250px; 
     text-align: center;
 }
 
@@ -133,7 +133,7 @@ footer {
 }
 
 #formacion-reglada {
-    background-color: #f4f4f4;
+    background-color: #b3a493;
     padding: 20px;
 }
 
@@ -148,11 +148,11 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #d2b48c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    width: 250px; /* Ajuste según necesidad */
+    width: 250px; 
     text-align: center;
 }
 
@@ -162,7 +162,7 @@ footer {
 }
 
 #formacion-complementaria {
-    background-color: #f4f4f4;
+    background-color: #b3a493;
     padding: 20px;
 }
 
@@ -177,11 +177,11 @@ footer {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #fff;
+    background-color: #d2b48c;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    width: 250px; /* Ajuste según necesidad */
+    width: 250px; 
     text-align: center;
 }
 
